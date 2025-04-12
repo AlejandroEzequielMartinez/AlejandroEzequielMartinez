@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Software Developer in Argentina. I love coding...
 
 <!--
 **AlejandroEzequielMartinez/AlejandroEzequielMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
